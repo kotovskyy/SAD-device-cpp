@@ -1,0 +1,44 @@
+{
+    "WIFI_SSID": "",
+    "WIFI_PASS": "",
+    "API_URL": "https://sad-app.azurewebsites.net/",
+    "TYPE": 1,
+    "TOKEN": "",
+    "DEVICE_NAME": "",
+    "DEVICE_ID": -1,
+    "CREATED": false,
+    "SETTINGS": [
+        {
+            "id": -1,
+            "type": 3,
+            "type_name": "Temperature",
+            "unit": "celsius",
+            "value": 19,
+            "device": -1
+        },
+        {
+            "id": -1,
+            "type": 1,
+            "type_name": "Sleep time",
+            "unit": "HH:MM",
+            "value": 2300,
+            "device": -1
+        },
+        {
+            "id": -1,
+            "type": 2,
+            "type_name": "Wake time",
+            "unit": "HH:MM",
+            "value": 700,
+            "device": -1
+        },
+        {
+            "id": -1,
+            "type": 4,
+            "type_name": "Humidity",
+            "unit": "%",
+            "value": 50,
+            "device": -1
+        }
+    ]
+}
